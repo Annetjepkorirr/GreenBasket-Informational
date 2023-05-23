@@ -1,3 +1,4 @@
+/* start style.css */
 *{
     padding: 0px;
     margin: 0px;
@@ -433,7 +434,7 @@
   .nav>#nav-check {
     display: none;
   }
-  
+  /* end style.css */
   
   
   
